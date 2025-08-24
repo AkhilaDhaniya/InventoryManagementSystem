@@ -13,20 +13,19 @@ This application can be used by any small to mid-sized stores to easily maintain
 
 # Features of the Application
 
--Users can manage inventory and stock of all the products available in their store.
+- Users can manage inventory and stock of all the products available in their store.
 
--Users can manage all sales and purchase transactions made by the store.
+- Users can manage all sales and purchase transactions made by the store.
 
--Supports two user types:
-
-i.Administrator
-ii.Employee
+- Supports two user types:
+  i. Administrator
+  ii. Employee
 [Admins have the ability to manage all other personnel.]
 
--Any transaction made automatically handles the stock availability in the inventory.
+- Any transaction made automatically handles the stock availability in the inventory.
 
--Each section includes a search feature to make it easier for users to view the data they want to see.
+- Each section includes a search feature to make it easier for users to view the data they want to see.
 
--Users only need to enter the product code while making a sale and all the relevant details will be retrieved from the database automatically.
+- Users only need to enter the product code while making a sale and all the relevant details will be retrieved from the database automatically.
 
--Maintains a time log of all the users using the application.
+- Maintains a time log of all the users using the application.

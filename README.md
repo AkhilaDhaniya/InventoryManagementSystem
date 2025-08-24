@@ -19,7 +19,8 @@ This application can be used by any small to mid-sized stores to easily maintain
 
 - Supports two user types:
   * i. Administrator
-   ii. Employee
+  * ii. Employee
+
 [Admins have the ability to manage all other personnel.]
 
 - Any transaction made automatically handles the stock availability in the inventory.

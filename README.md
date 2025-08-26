@@ -50,7 +50,7 @@ The products section allows the user to add, edit and delete products from the s
 ### Current Stocks
 This section allows the user to check the availability of every item.
 
-![Stocks](screenshots/CurrentStocks.png?raw=true)
+![Stocks](screenshots/Currentstocks.png?raw=true)
 
 ### Suppliers
 Here, the user can manage and manipulate the record of all the suppliers associated with the store.
@@ -75,7 +75,7 @@ This section is only available to ADMINISTRATORS. It allows them to view, add an
 ### User Logs
 Stores and shows the administrator a log of all the users that have previously logged in, including their login time and logout time.
 
-![Userlogs](screenshots/UsersLogs.png?raw=true)
+![Userlogs](screenshots/UserLogs.png?raw=true)
 
 ## Technologies Used
 The following are the technologies that have been used in the development of this project. All of them are free to use.

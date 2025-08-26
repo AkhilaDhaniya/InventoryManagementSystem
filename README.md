@@ -6,7 +6,6 @@ This is an Inventory Management System built in the form of a GUI desktop applic
 This application can be used by any small to mid-sized stores to easily maintain and manage an inventory of all their-
 
 - Products
-- Customers
 - Suppliers
 - Users
 - Transactions
@@ -30,3 +29,10 @@ This application can be used by any small to mid-sized stores to easily maintain
 - Users only need to enter the product code while making a sale and all the relevant details will be retrieved from the database automatically.
 
 - Maintains a time log of all the users using the application.
+
+# Application Preview
+
+### Login Page
+The login page takes in the credentials entered by the user and verifies with the database.
+
+!()

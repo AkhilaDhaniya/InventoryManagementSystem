@@ -10,7 +10,7 @@ This application can be used by any small to mid-sized stores to easily maintain
 - Users
 - Transactions
 
-# Features of the Application
+## Features of the Application
 
 - Users can manage inventory and stock of all the products available in their store.
 
@@ -30,7 +30,7 @@ This application can be used by any small to mid-sized stores to easily maintain
 
 - Maintains a time log of all the users using the application.
 
-# Application Preview
+## Application Preview
 
 ### Login Page
 The login page takes in the credentials entered by the user and verifies with the database.
@@ -77,7 +77,7 @@ Stores and shows the administrator a log of all the users that have previously l
 
 ![Userlogs](screenshots/UsersLogs.png?raw=true)
 
-# Technologies Used
+## Technologies Used
 The following are the technologies that have been used in the development of this project. All of them are free to use.
 
 * Apache NetBeans IDE (for the GUI designer)

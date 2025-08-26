@@ -35,4 +35,4 @@ This application can be used by any small to mid-sized stores to easily maintain
 ### Login Page
 The login page takes in the credentials entered by the user and verifies with the database.
 
-!(screenshots/LoginPage.png)
+!(main/screenshots/LoginPage.png)

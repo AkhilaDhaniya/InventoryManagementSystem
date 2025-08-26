@@ -35,4 +35,4 @@ This application can be used by any small to mid-sized stores to easily maintain
 ### Login Page
 The login page takes in the credentials entered by the user and verifies with the database.
 
-!(https://github.com/AkhilaDhaniya/InventoryManagementSystem/blob/main/screenshots/LoginPage.png)
+!(https://github.com/AkhilaDhaniya/InventoryManagementSystem/blob/main/screenshots/LoginPage.png?raw=true)

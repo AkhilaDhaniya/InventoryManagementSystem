@@ -65,7 +65,7 @@ This section is where users can sell a product and manage all the sales transact
 ### Purchase 
 This section is where users can view purchase logs and enter new purchase transactions. Similar to the sales section, this section only requires the user to enter the product code and the details that are already available in the database will immediately be displayed in the respective spaces.
 
-![Sales](screenshots/SalesPage.png?raw=true)
+![Purchase](screenshots/PurchasePage.png?raw=true)
 
 ### Users
 This section is only available to ADMINISTRATORS. It allows them to view, add and delete any users.
